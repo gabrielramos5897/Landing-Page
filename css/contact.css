@@ -1,0 +1,59 @@
+.navbar {
+  /*background: #fff;
+  background: #000;*/
+}
+
+body {
+  background: #fff;
+  background: #000;
+}
+
+.sub-header-pic {
+  width: 1920px;
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  margin-left: -960px;
+  top: -300px;
+}
+
+#content {
+  padding-top: 100px;
+}
+
+.form {
+  margin-top: 230px;
+}
+
+.c-form {
+width: 70%;
+margin: 0 auto;
+}
+
+.contact-field-1 {
+  width: 48%;
+  float: left;
+  height: 40px;
+}
+
+.field {
+  border-style: solid;
+  border-width: 2px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.f-margin {
+  margin-left: 4%;
+}
+
+.m-box {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+
+.contact-send {
+  margin-bottom: 50px;
+}
